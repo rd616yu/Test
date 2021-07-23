@@ -1,7 +1,7 @@
 public class Main{
 	public static void main(String[] args)
 {
-	System.out.println("Hello world, I literally finally figured out M1 you son of a bitch.");
+	System.out.println("Hello world, I literally finally figured out M1");
 	System.out.println("Starting to print numbers: ");
 	int[] testArr = {1,3,5,6,8};
 	Main.reverse(testArr);
