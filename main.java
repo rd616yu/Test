@@ -9,6 +9,7 @@ public class Main{
 	{
 		System.out.print(i + " ");
 	}
+	System.out.println("Done");
 }
 
 public static void reverse(int[] arr)
